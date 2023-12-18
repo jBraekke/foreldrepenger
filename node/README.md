@@ -28,25 +28,15 @@
 | Tvillinger             | 66 uker               | 80 uker              |
 | Trillinger eller flere | 95 uker               | 115 uker             |
 
-+------------------------+---------+----------+
-| Antall barn            |  100%   |   80%    |
-+------------------------+---------+----------+
-| Et barn                | 49 uker | 59 uker  |
-| Tvillinger             | 66 uker | 80 uker  |
-| Trillinger eller flere | 95 uker | 115 uker |
-+------------------------+---------+----------+
 
+## Eksempeler:
 
-Eksempel:
-
-+--------------------------------------------------------------------+
-|               100% foreldrepenger ved førdsel                      |
-+---------------------------------+----------------------------------+
-| Foreldrepenger før fødsel       | 3 uker til mor                   |
-| Mødrekvoten                     | 15 uker                          |
-| Fedrekvoten                     | 15 uker                          |
-| Fellesperioden                  | 16 uker (Aktivitetskrav til mor) |
-+---------------------------------+----------------------------------+
+### 100% lønnsdekning ved fødsel
+|                                        | Far     | Mor     |   |   |
+|----------------------------------------|---------|---------|---|---|
+| Fødselspermisjon                       | 2 uker  | 0       |   |   |
+| Permisjonskvote                        | 15 uker | 15 uker |   |   |
+| Fellesperiode (aktivitetskrav til mor) | 8 uker  | 8 uker  |   |   |
 
 +--------------------------------------------------------------------+
 |               100% foreldrepenger ved adopsjon                     |
