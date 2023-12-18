@@ -74,9 +74,9 @@ Det finnes 3 kategorier for din situasjon:
 Det tar utgangspunkt i hvor mye en tjente de siste 3 månedene. Utbetalingsgrensen er på 711 720 kr i året (seks ganger grunnbeløpet) og kan ikke overstige dette. Grunnbeløpet (1 x G) i 2023 er 118 620 kroner.
 
 * Du har tjent minst 59 310 kr i året. Omregnet til årsinntekt må inntekten din tilsvare et halvt grunnbeløp (G)
+* Hvis man tjener under en halv, kan du søke om engangsutbetaling
 
 Eksempler:
-
 
 | Gjennomsnitt lønn siste 3 måneder | 100%   | 80%    |
 |-----------------------------------|--------|--------|
