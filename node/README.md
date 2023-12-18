@@ -22,11 +22,11 @@
 
 * Hvis mor eller far er alene om barnet, så vil personen få hele permisjonen
 
-| Antall barn            | Dekning i lønn (100%) | Dekning i lønn (80%) |   |   |
-|------------------------|-----------------------|----------------------|---|---|
-| Et barn                | 49 uker               | 59 uker              |   |   |
-| Tvillinger             | 66 uker               | 80 uker              |   |   |
-| Trillinger eller flere | 95 uker               | 115 uker             |   |   |
+| Antall barn            | Dekning i lønn (100%) | Dekning i lønn (80%) |
+|------------------------|-----------------------|----------------------|
+| Et barn                | 49 uker               | 59 uker              |
+| Tvillinger             | 66 uker               | 80 uker              |
+| Trillinger eller flere | 95 uker               | 115 uker             |
 
 +------------------------+---------+----------+
 | Antall barn            |  100%   |   80%    |
