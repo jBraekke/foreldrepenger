@@ -32,11 +32,11 @@
 ## Eksempeler:
 
 ### 100% lønnsdekning ved fødsel
-|                                        | Far     | Mor     |   |   |
-|----------------------------------------|---------|---------|---|---|
-| Fødselspermisjon                       | 2 uker  | 0       |   |   |
-| Permisjonskvote                        | 15 uker | 15 uker |   |   |
-| Fellesperiode (aktivitetskrav til mor) | 8 uker  | 8 uker  |   |   |
+|                                        | Far     | Mor     |
+|----------------------------------------|---------|---------|
+| Fødselspermisjon                       | 2 uker  | 0       |
+| Permisjonskvote                        | 15 uker | 15 uker |
+| Fellesperiode (aktivitetskrav til mor) | 8 uker  | 8 uker  |
 
 +--------------------------------------------------------------------+
 |               100% foreldrepenger ved adopsjon                     |
