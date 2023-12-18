@@ -38,13 +38,12 @@
 | Permisjonskvote                        | 15 uker | 15 uker |
 | Fellesperiode (aktivitetskrav til mor) | 8 uker  | 8 uker  |
 
-+--------------------------------------------------------------------+
-|               100% foreldrepenger ved adopsjon                     |
-+---------------------------------+----------------------------------+
-| Mødrekvoten                     | 15 uker                          |
-| Fedrekvoten                     | 15 uker                          |
-| Fellesperioden                  | 16 uker (Aktivitetskrav til mor) |
-+---------------------------------+----------------------------------+
+### 100% lønnsdekning ved adopsjon
+|                                        | Far     | Mor     |
+|----------------------------------------|---------|---------|
+| Fødselspermisjon                       | 0       | 0       |
+| Permisjonskvote                        | 15 uker | 15 uker |
+| Fellesperiode (aktivitetskrav til mor) | 8 uker  | 8 uker  |
 
 +--------------------------------------------------------------------+
 |                80% foreldrepenger ved førdsel                      |
