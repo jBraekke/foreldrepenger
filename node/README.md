@@ -34,33 +34,34 @@
 ### 100% lønnsdekning ved fødsel
 |                                        | Far     | Mor     |
 |----------------------------------------|---------|---------|
+| Foreldrepermisjon før fødsel           | 0       | 3 uker  |
 | Fødselspermisjon                       | 2 uker  | 0       |
+| Permisjonskvote                        | 15 uker | 15 uker |
+| Fellesperiode (aktivitetskrav til mor) | 8 uker  | 8 uker  |
+
+### 80% lønnsdekning ved fødsel
+|                                        | Far     | Mor     |
+|----------------------------------------|---------|---------|
+| Foreldrepermisjon før fødsel           | 0       | 3 uker  |
+| Fødselspermisjon                       | 2 uker  | 0       |
+| Permisjonskvote                        | 19 uker | 19 uker |
+| Fellesperiode (aktivitetskrav til mor) | 8 uker  | 8 uker  |
+
+### 100% lønnsdekning ved adopsjon
+|                                        | Far     | Mor     |
+|----------------------------------------|---------|---------|
+| Foreldrepermisjon før fødsel           | 0       | 0       |
+| Fødselspermisjon                       | 0       | 0       |
 | Permisjonskvote                        | 15 uker | 15 uker |
 | Fellesperiode (aktivitetskrav til mor) | 8 uker  | 8 uker  |
 
 ### 100% lønnsdekning ved adopsjon
 |                                        | Far     | Mor     |
 |----------------------------------------|---------|---------|
+| Foreldrepermisjon før fødsel           | 0       | 0       |
 | Fødselspermisjon                       | 0       | 0       |
-| Permisjonskvote                        | 15 uker | 15 uker |
+| Permisjonskvote                        | 19 uker | 19 uker |
 | Fellesperiode (aktivitetskrav til mor) | 8 uker  | 8 uker  |
-
-+--------------------------------------------------------------------+
-|                80% foreldrepenger ved førdsel                      |
-+---------------------------------+----------------------------------+
-| Foreldrepenger før fødsel       | 3 uker til mor                   |
-| Mødrekvoten                     | 19 uker                          |
-| Fedrekvoten                     | 19 uker                          |
-| Fellesperioden                  | 18 uker (Aktivitetskrav til mor) |
-+---------------------------------+----------------------------------+
-
-+--------------------------------------------------------------------+
-|                80% foreldrepenger ved adopsjon                     |
-+---------------------------------+----------------------------------+
-| Mødrekvoten                     | 19 uker                          |
-| Fedrekvoten                     | 19 uker                          |
-| Fellesperioden                  | 18 uker (Aktivitetskrav til mor) |
-+---------------------------------+----------------------------------+
 
 ## Hvor mye kan du få?
 
@@ -77,13 +78,11 @@ Det tar utgangspunkt i hvor mye en tjente de siste 3 månedene. Utbetalingsgrens
 Eksempler:
 
 
-+-----------------------------------+-------------+-------------+
-| Gjennomsnitt lønn siste 3 måneder |    100%     |     80%     |
-+-----------------------------------+-------------+-------------+
-| 4 942 kr                          | 0           | 0           |
-| 10 000 kr                         | 10 000,- kr | 8 000,- kr  |
-| 45 000 kr                         | 45 000,- kr | 36 000,- kr |
-| 70 000 kr                         | 59 310,- kr | 47 448,- kr |
-+-----------------------------------+-------------+-------------+
+| Gjennomsnitt lønn siste 3 måneder | 100%   | 80%    |
+|-----------------------------------|--------|--------|
+| 4 942,- kr                        | 0      | 0      |
+| 10 000,- kr                       | 10 000 | 8 000  |
+| 45 000,- kr                       | 45 000 | 36 000 |
+| 70 000,- kr                       | 59 310 | 47 448 |
 
 
